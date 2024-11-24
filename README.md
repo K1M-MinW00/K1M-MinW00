@@ -5,7 +5,6 @@
 <div style="text-align: center;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥+🎮+💻 </h2>
   <a href=https://velog.io/@kmw6624/posts><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@kmw6624/posts"> </a><a href="https://solved.ac/kmw6624"><img align = "right"  src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw6624">
-  <a href=kmw6624@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=kmw6624@naver.com"> </a>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     - 🎮 내일배움캠프 Unity 4기 <sub>(2024.04 ~ 24.08)</sub> <br>
     - 👨‍🎓 경북대학교 수학과 졸업  <sub>(2018.03 ~ 24.02)</sub> <br>
