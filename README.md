@@ -13,15 +13,7 @@
     </div> 
 </div>
 
-</div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-      🏅 Stats </h2> <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=K1M-MinW00&bg_color=60,9be47c,ffffff&title_color=000000&text_color=000000"/> 
-        <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1M-MinW00&layout=compact&bg_color=60,9be47c,ffffff&title_color=000000&text_color=000000"/>
-</div>
+
 
     
 <!--
