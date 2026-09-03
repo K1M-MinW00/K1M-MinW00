@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Steamworks, Firebase, Google AdMob 연동
+  SteamWorks, Firebase, Google AdMob 연동
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ## Selected Projects
 
-<a href="https://github.com/MJ99-Games/Angvik-Returns"><img src="assets/angvik.svg" width="100%" alt="Angvik: Returns — 2인 팀 2D 액션 플랫포머 팬 게임, 2025.06.01 Steam 출시. 담당: 몬스터 FSM, CSV 기반 생성·드랍, Steam API" /></a>
+<a href="https://github.com/MJ99-Games/Angvik-Returns"><img src="assets/angvik.svg" width="100%" alt="Angvik: Returns — 2인 팀 2D 액션 플랫포머 팬 게임, 2025.06.01 Steam 출시. 담당: 몬스터 FSM, CSV 기반 생성·드랍, SteamWorks API" /></a>
 
 <a href="https://github.com/K1M-MinW00/Defenders"><img src="assets/defenders.svg" width="100%" alt="Defenders — 전투·성장·뽑기 시스템과 보상형 광고 연동" /></a>
 
@@ -94,8 +94,9 @@
 
 부팀장으로 몬스터, 시간·세금 시스템, 조명, 매뉴얼, 컷신을 담당했습니다.
 
-- 대기·배회·추적·공격을 별도 상태로 구성
+- 몬스터의 대기·배회·추적·공격을 별도 상태로 관리, 추적
 - Physics2D와 NavMesh2D를 활용한 몬스터 추적
+- Cinemachine 을 활용한 컷신 재생 및 상태 제어
 
 [몬스터 상태 머신](https://github.com/K1M-MinW00/BarbarianScript/blob/main/Scripts/Monster/MonsterStateMachine.cs) · [플레이 페이지](https://seeun0815.itch.io/barbarians-smash-everything)
 
