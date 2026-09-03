@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="김민우 · Unity Game Client Developer — 플레이를 구현하고, 시스템을 설계합니다." />
+  <img src="assets/profile-banner.svg" width="100%" alt="김민우 · Unity Game Client Developer — 성장하는 게임 클라이언트 개발자" />
 </p>
 
 <p align="center">
-  Unity와 C#으로 전투와 게임 시스템을 구현합니다.<br>
-  2인 팀 Steam 출시 · 몬스터 AI · 플랫폼 API 연동
+  Steamworks, Firebase, Google AdMob 연동
 </p>
 
 <p align="center">
@@ -12,6 +11,8 @@
   <img src="https://img.shields.io/badge/C%23-222C37?style=flat-square" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-222C37?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-222C37?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/firebase-%23DD2C00.svg?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&amp;logo=steam&amp;logoColor=white" alt="steam"/>
 </p>
 
 <p align="center">
@@ -24,18 +25,16 @@
 
 <a href="https://solved.ac/kmw6624"><img align="right" width="350" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kmw6624" alt="kmw6624 solved.ac 티어 및 문제 풀이 배지" /></a>
 
-**경북대학교**
+**🎓 경북대학교**
 
-- 수학과 졸업 · 2018.03 – 2024.02
-- 컴퓨터공학부 복수전공 · 2022.03 – 2024.02
-- **학점 3.5 / 4.3**
+- 📐 수학과 졸업 · 2018.03 – 2024.02
+- 💻 컴퓨터공학부 복수전공 · 2022.03 – 2024.02
+- **📊 학점 3.5 / 4.3**
 
-**내일배움캠프 Unity 4기**
+**🎮 내일배움캠프 Unity 4기**
 
-- Unity 게임 개발 종합반
-- 2024.04 – 2024.08
-
-[solved.ac 프로필](https://solved.ac/kmw6624) · [문제 풀이 코드](https://github.com/K1M-MinW00/CodingTest)
+- 🛠️ Unity 게임 개발 종합반
+- 📅 2024.04 – 2024.08
 
 <br clear="both" />
 
