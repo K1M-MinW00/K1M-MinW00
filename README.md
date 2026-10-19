@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner-growing.svg" width="100%" alt="김민우 · Unity Game Client Developer — 성장하는 게임 클라이언트 개발자" />
+  <img src="assets/profile-banner-growing.svg" width="100%" alt="김민우 · Unity Client Developer — 성장하는 Unity 클라이언트 개발자" />
 </p>
 
 <p align="center">
